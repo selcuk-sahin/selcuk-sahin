@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://web.itu.edu.tr/sahinahmet/#resume](https://web.itu.edu.tr/sahinahmet/#resume)
 
-- ⚡ Fun fact **I was actually good at DJing🎧**
+- ⚡ Fun fact **I'm actually good at DJing🎧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
