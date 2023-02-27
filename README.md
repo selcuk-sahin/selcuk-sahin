@@ -3,7 +3,7 @@
 
 - 🔭 I'm Currently Working On [HediyeSepeti Mobile App (Ionic Capacitor Angular)](https://www.hediyesepeti.com/)
 
-- 🌱 I’m currently learning **React, Next.JS**
+- 🌱 I’m currently learning **React JS, Swift**
 
 - 👨‍💻 All of my projects are available at [https://web.itu.edu.tr/sahinahmet/#projects](https://web.itu.edu.tr/sahinahmet/#projects)
 
