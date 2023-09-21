@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmet Selçuk Şahin</h1>
-<h3 align="center">Front-end Developer based on Istanbul/Turkey</h3>
+<h3 align="center">Front-end Developer based on Paris/France</h3>
 
-- 🔭 I'm Currently Working On [HediyeSepeti Mobile App (Ionic Capacitor Angular)](https://www.hediyesepeti.com/)
+- 🔭 I'm Currently Working @[Agrio]([https://www.hediyesepeti.com/](https://agriofinans.com/en/))
 
-- 🌱 I’m currently learning **React JS, Swift**
-
-- 👨‍💻 All of my projects are available at [https://web.itu.edu.tr/sahinahmet/#projects](https://web.itu.edu.tr/sahinahmet/#projects)
+- 🌱 I’m currently learning **French**
 
 - 💬 Ask me about **Angular, TypeScript, Ionic**
 
 - 📫 How to reach me **sellahmet@hotmail.com**
-
-- 📄 Know about my experiences [https://web.itu.edu.tr/sahinahmet/#resume](https://web.itu.edu.tr/sahinahmet/#resume)
-
-- ⚡ Fun fact **I'm actually good at DJing🎧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
