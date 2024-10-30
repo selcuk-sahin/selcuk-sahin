@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Selçuk Şahin</h1>
 <h3 align="center">Front-end Developer based in Paris/France</h3>
 
-- 🔭 I'm Currently Working [@Agrio Finans](https://agriofinans.com/en/)
+- 🔭 I'm Currently Working [@Tranched](https://tranched.fi/)
 
 - 🌱 I’m currently learning **French**
 
